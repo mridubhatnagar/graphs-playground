@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Graphs
+        </title>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+        <script type="text/javascript" src="/static/js/lineGraph.js"></script>
+        <!-- <script type="text/javascript" src="{{ url_for('static', filename = 'js/lineGraph.js') }}"></script> -->
+    </head>
+    <body>
+        <div>
+            <h2>Data Visualization</h2>
+        </div>
+        <div>
+            <form>
+                <input type="button" value="submit" id="submit" onclick="loadDetails()">
+            </form>
+        </div>
+        <div>
+            <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+        </div>
+    </body>
+</html>
