@@ -5,9 +5,7 @@ function apiCall() {
     data: {},
     success: function(result) {
         var keys = Object.keys(result);
-        console.log(months);
         var values = Object.values(result);
-        console.log(values);
         loadDetails(keys, values);
     }
     })
