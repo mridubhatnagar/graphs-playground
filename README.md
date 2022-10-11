@@ -10,3 +10,7 @@ Tiny application for data visualization
 ### v2 (Visualization for NIIT stock data for last 1 month)
 
 ![Screenshot from 2022-10-11 11-30-33](https://user-images.githubusercontent.com/16894718/195008677-5b615a66-5fa6-43b8-8dd1-8035aab475b1.png)
+
+### v3 (Visualization for NIIT stock data for last 1 month)
+
+![Screenshot from 2022-10-11 16-29-59](https://user-images.githubusercontent.com/16894718/195073280-2b341205-0020-4f63-8028-cbee701b4386.png)
