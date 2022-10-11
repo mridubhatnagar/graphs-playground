@@ -5,7 +5,7 @@ from flask import Flask, jsonify, render_template, request
 
 app = Flask(__name__)
 
-filename = 'Quote-Equity-NIITLTD-EQ-10-09-2022-to-10-10-2022.csv'
+filename = 'Quote-Equity-NIITLTD-EQ-11-09-2022-to-11-10-2022.csv'
 
 @app.route("/", methods=["GET", "POST"])
 def stock_data():

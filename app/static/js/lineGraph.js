@@ -6,12 +6,12 @@ function apiCall() {
     success: function(result) {
         var keys = Object.keys(result);
         var values = Object.values(result);
-        loadDetails(keys, values);
+        createChart(keys, values);
     }
     })
 }
 
-function loadDetails(months, values) {
+function createChart(months, values) {
     new Chart("myChart", {
         type: "line",
         data: {
@@ -23,6 +23,10 @@ function loadDetails(months, values) {
             borderColor: "red",
             data: values
         }]
-        }
+        },
+        options: {
+            responsive:true,
+            legend: {display: true},
+          }
 });
 }

@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+#form {
+    border-color: 2px solid yellow;
+}
+
+#submit {
+   display: block; 
+   margin: auto;
+   margin-bottom: 70px;
+   background-color: palegoldenrod;
+   height: 50px;
+   width: 140px;
+   font-weight: bold;
+}
+
+
+#chart-container {
+    margin: auto;   
+    width:800px !important;
+    height: 500px !important;
+    border: 2px solid black;
+} 
