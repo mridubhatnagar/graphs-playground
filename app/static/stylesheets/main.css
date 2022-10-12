@@ -2,19 +2,6 @@ h1 {
     text-align: center;
 }
 
-#form {
-    border-color: 2px solid yellow;
-}
-
-#submit {
-   display: block; 
-   margin: auto;
-   margin-bottom: 70px;
-   background-color: palegoldenrod;
-   height: 50px;
-   width: 140px;
-   font-weight: bold;
-}
 
 
 #chart-container {
@@ -23,3 +10,27 @@ h1 {
     height: 500px !important;
     border: 2px solid black;
 } 
+
+#userinput {
+    margin-left: 506px;
+    margin-right: 506px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+#submit {
+    background-color: palegoldenrod;
+    height: 25px;
+    width: 120px; 
+    font-weight: bold;
+ }
+
+#label {
+    font-weight: bold;
+}
+
+#div4 {
+    color: red;
+    text-align: center;
+}

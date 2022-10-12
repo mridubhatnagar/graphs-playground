@@ -15,9 +15,16 @@
             <h1>Stock Data Visualization</h1>
         </div>
         <div>
-            <form>
-                <input type="button" value="Show Graph" id="submit" onclick="apiCall()">
-            </form>
+            <div id="userinput">
+                <form>
+                    <label for="cname" id="label">Company Name(s): </label>
+                    <input type="text" id="cname" name="cname" class="child-userinput">
+                    <input type="button" value="Show Graph" id="submit"  class="child-userinput" onclick="apiCall()">
+                </form>
+            </div>
+        </div>
+        <div id="div4">
+            <div id="message"></div>
         </div>
         <div id="chart-container">
             <canvas id="myChart"></canvas>
