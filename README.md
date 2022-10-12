@@ -14,3 +14,7 @@ Tiny application for data visualization
 ### v3 (Visualization for NIIT stock data for last 1 month)
 
 ![Screenshot from 2022-10-11 16-29-59](https://user-images.githubusercontent.com/16894718/195073280-2b341205-0020-4f63-8028-cbee701b4386.png)
+
+### V4 (Visualization for stock data for last 1 month HCLTECH, INFY, TCS)
+
+[Screencast from 12-10-22 03:44:28 PM IST.webm](https://user-images.githubusercontent.com/16894718/195318693-7715c046-1c89-4ec0-8d0d-47d6d4a7b6f3.webm)
