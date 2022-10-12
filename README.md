@@ -17,4 +17,5 @@ Tiny application for data visualization
 
 ### V4 (Visualization for stock data for last 1 month HCLTECH, INFY, TCS)
 
-[Screencast from 12-10-22 03:44:28 PM IST.webm](https://user-images.githubusercontent.com/16894718/195318693-7715c046-1c89-4ec0-8d0d-47d6d4a7b6f3.webm)
+
+[Screencast from 12-10-22 03:49:11 PM IST.webm](https://user-images.githubusercontent.com/16894718/195319315-0a5a91c5-9b98-49c6-8fcd-6b19b829a4cc.webm)
